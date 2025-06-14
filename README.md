@@ -5,7 +5,7 @@ I am a telecommunications specialist with a profound interest in technology and 
 
 ## Objective
 
-My journey in Telecommunications has led me to develop a passion for field testing, technical support, and research.Proven expertise in personal computer setup and maintenance. Proficiency in gathering, analyzing, and interpreting information. Adept at providing remote and on-site technical support, troubleshooting hardware and software issues, and ensuring high levels of user satisfaction.
+Results-driven professional with extensive experience in telecommunications field testing, technical support, and research. Proven expertise in personal computer setup and maintenance, as well as proficiency in gathering, analyzing, and interpreting information. Adept at providing remote and on-site technical support, troubleshooting hardware and software issues, and ensuring high levels of user satisfaction. Skilled in utilizing specialized testing equipment and software tools to deliver accurate and reliable results. 
 
 ## Skills
 
@@ -21,27 +21,43 @@ Other: Active Directory, Microsoft Office, Remote Desktop Tools, Splunk,  Regres
 Support Specialist I- Medical, Mechanicsburg PA
 August 2024 - PRESENT
 
- Delivered remote technical support to 54000+ users, resolving Windows and macOS system issues with a 92% first-call resolution rate.
-• Provided fast and efficient support via email and chat, adhering to SLAs and ensuring minimal downtime for users.
-• Documented and tracked customer issues using ServiceNow, ensuring transparency and follow-up on support tickets.
-• Collaborated with cross-functional teams to troubleshoot and escalate technical issues, improving resolution time by 20%.
+• Delivered remote technical support to 54000+ users, resolving Windows and macOS system issues 
+• Provided fast and efficient support via Phone, email and chat
+• Documented and tracked customer issues using ServiceNow
+• Collaborated with cross-functional teams to troubleshoot and escalate technical issues.
 • Maintained high levels of customer satisfaction, earning consistent positive feedback for professional communication and problem-solving skills.
 
-Field Support and Test Engineer -Spirent communications, Frederick MD
-March 2020- August 2024
+Field Support -Spirent Communications, Frederick MD
+April 2023- August 2024
 
-• Provided comprehensive field and functional support to clients and field engineers, troubleshooting complex issues and ensuring project deadlines were met.
-• Conducted 300+ field tests of telecommunications solutions, analyzing data and providing actionable insights to engineering teams.
-• Utilized specialized testing equipment and software tools to collect and analyze data, ensuring 98% accuracy in test results.
-• Collaborated with cross-functional teams to troubleshoot issues, improve product quality, and reduce testing time.
-• Advocated for customer needs by documenting feedback and collaborating with engineering teams to resolve bugs and improve product functionality.
+• Perform testing to evaluate the functionality of firmware for Andriod devices in early development stages before field testing 
+• Troubleshoot device-related and tool issues
+• Train new field testers and monitor real-time performance of testing 
+• Escalate problems to Leads and senior management
+
+Test Engineer -Spirent Communications, Frederick MD
+March 2020- April 2023
+
+• Perform wireless device functional/ field testing as per established bench-marking test plans and strategy: Voice Quality, Call Performance, Data Performance, and Video Performance. 
+• Troubleshoot device-related and tool issues on-site as required and effectively communicate issues with team leads and the program manager. 
+• Monitor real-time performance of testing, ensuring data collected is accurate and the test runs smoothly. 
+• Review the test results of each test case for accuracy and quality. 
+• Collect logs using diagnostic tools such as QXDM or Wireless Metrix LML 
 
 Asurion Field Service Technician- Custom Communications, Inc, Frederick  MD
 May 2018 - December 2019
 
-• Provided on-site technical support, diagnosing and resolving hardware and software issues with electronic devices.
-• Achieved a 95% customer satisfaction rate by delivering timely and effective solutions.
-• Collaborated with internal teams and external partners to address technical challenges and improve service delivery..
+• Travel to meet with customers in their homes or places of business to Diagnose troubleshoot and
+repair Android and IOS wireless smartphones, and Tablets.
+• Explain complex technical issues to customers in a non-technical, simple-to-understand manner.
+• Communicate with team members and supervisors to arrange inventory handoff.
+• Escalate problems to management and Asurion
+
+EDUCATION 	
+
+Harrisburg Area Community College, Harrisburg PA 					May 2018
+Associate in Science, Electronic Engineering Technology  
+
 
 
 | Skill                                         | Associated Project         |
